@@ -2,11 +2,11 @@
 
 1. [‘绿’米1s](http://polly343900.github.io/demo/xiaomi/mi.html)
 
-以及恶趣味的合照
+    以及恶趣味的合照
 
-![合照](http://ww3.sinaimg.cn/bmiddle/43bf82b6jw1eruvxtzqwdj216o1kw1bw.jpg)
+    ![合照](http://ww3.sinaimg.cn/bmiddle/43bf82b6jw1eruvxtzqwdj216o1kw1bw.jpg)
 
-总结见Issues。
+    总结见Issues。
 
 2. [利用flexbox写的栅格布局](http://polly343900.github.io/demo/flex-grid/flex-grid.html)
 
